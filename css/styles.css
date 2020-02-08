@@ -28,3 +28,11 @@
     margin: 0px;
     color: #0f0f0f;
 }
+
+.row-padder{
+    margin: 0px auto;
+    padding: 60px 10px 60px 10px;
+}
+.row-padleft{
+    margin: 0px 10px 0px 10px;
+}
